@@ -1,0 +1,6 @@
+framework module Pods_YDLearn_Example {
+  umbrella header "Pods-YDLearn_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
