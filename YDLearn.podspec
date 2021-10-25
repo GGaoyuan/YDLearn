@@ -31,7 +31,8 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '9.0'
 
   s.source_files = 'YDLearn/Classes/**/*'
-  
+#  s.source_files = '*.{h,m}', '**/*.{h,m}', '*.swift'
+  s.frameworks = 'UIKit', 'Foundation'
   # s.resource_bundles = {
   #   'YDLearn' => ['YDLearn/Assets/*.png']
   # }
