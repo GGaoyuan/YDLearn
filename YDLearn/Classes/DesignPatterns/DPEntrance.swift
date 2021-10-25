@@ -6,10 +6,13 @@
 //
 
 import UIKit
+import YDSwift
 
 public class DPEntrance: NSObject {
     
     public class func commandPattern() {
+        let a = NSObject()
+        a.test()
         print("1111")
     }
     
