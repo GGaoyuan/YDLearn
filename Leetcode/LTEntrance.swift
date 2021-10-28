@@ -9,8 +9,13 @@ import Foundation
 
 public class LTEntrance: NSObject {
     
-    public class func commandPattern() {
-        
+    public class func solution() {
+        LT_1_TwoSum().solution()
+        LT_2_AddTwoNumbers().solution()
+        LT_3_LengthOfLongestSubstring().solution()
     }
-    
+}
+
+protocol LTSolution: NSObjectProtocol {
+    func solution()
 }
