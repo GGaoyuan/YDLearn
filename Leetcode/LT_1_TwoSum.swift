@@ -26,7 +26,7 @@ class LT_1_TwoSum: NSObject, LTSolution {
                 result.append(i)
                 break
             }
-            print(i, num)
+//            print(i, num)
         }
         return result
     }

@@ -13,6 +13,7 @@ public class LTEntrance: NSObject {
         LT_1_TwoSum().solution()
         LT_2_AddTwoNumbers().solution()
         LT_3_LengthOfLongestSubstring().solution()
+        LT_5_LongestPalindrome().solution()
     }
 }
 
