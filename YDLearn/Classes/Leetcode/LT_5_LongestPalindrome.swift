@@ -50,8 +50,7 @@ class LT_5_LongestPalindrome: NSObject, LTSolution {
         let result = s[start..<end]
         
         let str = "123456"
-//        let a = str.subs
-        let a = str.subString(from: 0, to: 1)
+        let a = str.subString(from: 1, to: 3)
         return String(result)
     }
 }
