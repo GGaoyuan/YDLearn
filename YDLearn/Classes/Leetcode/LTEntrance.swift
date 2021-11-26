@@ -14,6 +14,7 @@ public class LTEntrance: NSObject {
         LT_2_AddTwoNumbers().solution()
         LT_3_LengthOfLongestSubstring().solution()
         LT_5_LongestPalindrome().solution()
+        LT_6_ZConvert().solution()
     }
 }
 
