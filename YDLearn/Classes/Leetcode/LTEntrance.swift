@@ -15,6 +15,7 @@ public class LTEntrance: NSObject {
         LT_3_LengthOfLongestSubstring().solution()
         LT_5_LongestPalindrome().solution()
         LT_6_ZConvert().solution()
+        LT_11_MaxArea().solution()
     }
 }
 
